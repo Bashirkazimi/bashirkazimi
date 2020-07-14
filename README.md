@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Bashir, a Ph.D. student and researcher at [IKG](https://www.ikg.uni-hannover.de/) working on deep learning applications in remote sensing.
+ 
 
 <!--
 **Bashirkazimi/bashirkazimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
