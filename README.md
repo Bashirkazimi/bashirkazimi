@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bashir, a Ph.D. student and researcher at [IKG](https://www.ikg.uni-hannover.de/) working on deep learning applications in remote sensing.
+I am Bashir, a researcher at [Helmholtz Center Hereon](https://hereon.de/) working on deep learning applications in x-ray tomography.
  
 
 <!--
