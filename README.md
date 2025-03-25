@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bashir, a researcher at the [Data Analysis and Machine Learning Group at IAS-9 in Forschungszentrum Jülich](https://www.fz-juelich.de/en/ias/ias-9/research/data-analysis-and-machine-learning) working on deep learning.
+I am Bashir, a deep learning researcher currently working at Forschungszentrum Jülich.
  
 
 <!--
